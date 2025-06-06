@@ -13,7 +13,7 @@ Download the dataset from the official challenge website:
 Follow these steps to set up and run the project.
 1.Clone the Repository
 ```bash
-git clone https://github.com/preethik14/luconet.git
+git clone https://github.com/preethik14/Pulmonary-Assessment-in-Health-Informatics-using-Deep-Learning.git
 cd luconet
 ```
 2. Create a virtualenvironment and activate it
