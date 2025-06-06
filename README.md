@@ -1,7 +1,7 @@
 # Pulmonary-Assessment-in-Health-Informatics-using-Deep-Learning
 ## LuCoNet: Respiratory Sound and Disease Classification
 
-LuCoNet is a deep learning model for classifying respiratory sounds into disease categories and sound labels using the **ICBHI 2017 Respiratory Sound Database**. This project aims to support research and applications in respiratory disease diagnosis using auscultation sound recordings.
+LuCoNet is a deep learning model for classifying respiratory sounds into disease categories and sound labels using the **ICBHI 2017 Respiratory Sound Database**. This project aims to support research and applications in respiratory disease diagnosis using auscultated lung sound recordings.
 
 ---
 
